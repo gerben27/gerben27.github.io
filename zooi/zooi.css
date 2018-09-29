@@ -1,0 +1,134 @@
+body
+{
+	background-color:#AED6F1;
+	color:white;
+}
+
+nav 
+{
+	position:absolute; 
+	top:200px;
+	left:0px;
+	color:orange;
+	font-family:"Bradley Hand ITC";
+	font-size:58px;
+	width:100%;
+	height:400px;
+	background-color:yellow;
+}
+
+article 
+{
+	color:green;
+}
+
+footer
+{
+	position:absolute;
+	top:700px;
+	left:550px;
+	color:black;
+	font-family:"Bradley Hand ITC";
+}
+
+header
+{
+	color:brown;
+	font-family:"Comic Sans MS";
+}
+
+#menu1
+{
+	color:pink;
+	font-family:Helvetica;
+}
+
+#kop1
+{
+	color:yellow;
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:400px;
+	background-color:green;
+}
+
+#kop2
+{
+	color:red;
+	position:absolute;
+	top:200px;
+	left:600px;
+	width:1100px;
+	height:400px;
+	background-color:pink;
+}
+
+#kop3
+{
+	color:green;
+	font-family:"Bradley Hand ITC";
+	position:absolute;
+	top:400px;
+	left:600px;
+}
+#kop4
+{
+	position:absolute;
+	top:-570px;
+	left:-550px;
+}
+a
+{
+	text-decoration:none;
+	color:white;
+}
+
+aside
+{
+	position:absolute;
+	top:0px;
+	right:0px;
+	background-color:purple;
+	width:200px;
+	height:1500px;
+	font-size:22px;
+}
+#kop5
+{
+	position:absolute;
+	top:-570px;
+	left:-550px;
+}
+
+#hoi
+{
+	font-size:50px;
+}
+
+#iets
+{
+	font-size:80px;
+}
+
+#title2
+{
+	font-size:60px;
+	background-color:red;
+	width:400px;
+	height:80px;
+	position:absolute;
+	left:700px;
+	top:0px;
+}
+
+#naarhoofdpagina
+{
+	font-size:30px;
+	position:absolute;
+	left:790px;
+	top:120px;
+	background-color:pink;
+	height:50px;
+}
